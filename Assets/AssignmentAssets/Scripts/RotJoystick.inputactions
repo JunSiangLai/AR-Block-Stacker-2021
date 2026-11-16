@@ -1,0 +1,33 @@
+{
+    "name": "RotJoystick",
+    "maps": [
+        {
+            "name": "RotJoystick",
+            "id": "f926c6c3-255a-4941-abc8-b6dafa328318",
+            "actions": [
+                {
+                    "name": "RJoystick",
+                    "type": "Value",
+                    "id": "d27267b8-e27c-439c-af7e-b668be635cc0",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "388dcf47-9360-4539-8437-5cf7f27405f1",
+                    "path": "<Gamepad>/leftStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RJoystick",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
